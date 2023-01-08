@@ -1,4 +1,5 @@
-# Final_Case
+# Traffic_Final_Case
+
 Türk Telekom &amp; TRAI Veri Bilimi ve Analitiği Practicum
 
 In this repo I've shared  my notebook that is about 1.6 million UK traffic accidents data which is taken from kaggle,
