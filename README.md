@@ -9,4 +9,10 @@ I have done some descriptive data analysis,namely,I asked some questions like;
 -Do whether/road condition affect the accidents rate 
 etc.
 
+And also I've implemented Linear Regression model to predict "AADF" based on other columns,
+What is AADF ?
+-Annual Average Daily Flow (AADF): The average over a full year of the number of vehicles passing a point in the road network each day.
+
+
+
 www.patika.dev
